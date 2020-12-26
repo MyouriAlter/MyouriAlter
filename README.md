@@ -21,7 +21,7 @@
 - Vuejs : 40%
 - Bootstrap : 50%
 
-###Contact 
+### Contact 
 
 - [Discord](https://discord.com/channels/@me/753861884511518782)
 - [Facebook](https://www.facebook.com/q.x.Neet.x.Innocentbystander4ever.x.Gamer.x.p/) 
