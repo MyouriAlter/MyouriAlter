@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I use window most of the time
-- Moving to Arch in Q1/2021
+- I enjoy reading novel 
 
 ### About me
 
@@ -15,15 +15,15 @@
 - C : 40%
 - C++ : 35%
 - JavaScript : 45%
+- TypeScript : 35%
 
 ### Framework
 
-- Vuejs : 40%
+- Angular : 40%
+- Vuejs : 30%
 - Bootstrap : 50%
 
 ### Contact 
 
-<!-- [Discord](https://discord.com/channels/@me/753861884511518782)
-[Facebook](https://www.facebook.com/q.x.Neet.x.Innocentbystander4ever.x.Gamer.x.p/) -->
 - [Twitter](https://twitter.com/8_Meow_8_Meow_8) 
 
